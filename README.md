@@ -32,3 +32,28 @@ EnglishMasterAI
 ├── Dockerfile
 ├── docker-compose.yml
 └── LICENSE
+
+EnglishMasterAI
+│
+├── ai
+│   ├── chat_engine.py
+│   ├── grammar_ai.py
+│   ├── pronunciation_ai.py
+│   ├── cambridge_ai.py
+│   └── feedback_ai.py
+│
+├── biomedical
+│   ├── ultrasound.py
+│   ├── resonance.py
+│   ├── calibration.py
+│   ├── maintenance.py
+│   └── hospital.py
+│
+├── mobile
+│   ├── android
+│   └── sync.py
+│
+├── admin
+│   ├── painel.py
+│   ├── turmas.py
+│   └── estatisticas.py
